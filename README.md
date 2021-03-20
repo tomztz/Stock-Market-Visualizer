@@ -12,3 +12,8 @@ The main objective of the program is to give the user the most flexibility in di
 
 
 <img width="748" alt="Screenshot 2021-03-20 152425" src="https://user-images.githubusercontent.com/73280812/111875346-31945500-8991-11eb-95de-6a837a832f3c.png">
+
+![received_630790204430977](https://user-images.githubusercontent.com/73280812/111875622-b338b280-8992-11eb-8f5e-e5e84d9b39a4.jpg)
+
+
+
