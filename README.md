@@ -8,3 +8,7 @@ The main objective of the program is to give the user the most flexibility in di
 
 
 <img width="750" alt="Screenshot 2021-03-20 152337" src="https://user-images.githubusercontent.com/73280812/111875323-132e5980-8991-11eb-8eba-acc7d64641a0.png">
+
+
+
+<img width="748" alt="Screenshot 2021-03-20 152425" src="https://user-images.githubusercontent.com/73280812/111875346-31945500-8991-11eb-95de-6a837a832f3c.png">
